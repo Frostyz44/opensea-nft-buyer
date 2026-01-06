@@ -4,7 +4,11 @@
       "WebFetch(domain:docs.opensea.io)",
       "WebSearch",
       "Bash(git init:*)",
-      "Bash(git commit:*)"
+      "Bash(git commit:*)",
+      "Bash(git remote add:*)",
+      "Bash(git branch:*)",
+      "Bash(git push:*)",
+      "Bash(npm uninstall:*)"
     ]
   }
 }
