@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:docs.opensea.io)",
+      "WebSearch",
+      "Bash(git init:*)",
+      "Bash(git commit:*)"
+    ]
+  }
+}
